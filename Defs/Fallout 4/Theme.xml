@@ -1,0 +1,83 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout_4</defName>
+        <label>Music Expanded: Fallout 4</label>
+		<iconPath>UI/Icons/Fallout 4</iconPath>
+        <description>Contains Tracks from Fallout 4 including sound effects and 12 battle tracks.</description>
+		<sounds>
+            <li>ME_Fallout_4_Quest_Completed</li>
+			<li>ME_Fallout_4_Quest_New</li>
+        </sounds>
+		<tracks>			
+			<li>ME_Fallout_4_Brightness_Calling</li>
+			<li>ME_Fallout_4_Concrete_Mysteries</li>
+			<li>ME_Fallout_4_Covert_Action</li>
+			<li>ME_Fallout_4_Darkness_Falls</li>
+			<li>ME_Fallout_4_Deeper_and_Darker</li>
+			<li>ME_Fallout_4_Dust_and_Danger</li>
+			<li>ME_Fallout_4_Echoes_of_the_Dead</li>
+			<li>ME_Fallout_4_Endless_Ocean_Endless_Dreams</li>
+			<li>ME_Fallout_4_Explore_and_Discover</li>
+			<li>ME_Fallout_4_Honor_and_Steel</li>
+			<li>ME_Fallout_4_Hope_Remains</li>
+			<li>ME_Fallout_4_Humanitys_Hope</li>
+			<li>ME_Fallout_4_Imagine_Utopia</li>
+			<li>ME_Fallout_4_In_This_Together</li>
+			<li>ME_Fallout_4_Liberty_Lives</li>
+			<li>ME_Fallout_4_Lone_Wandering</li>
+			<li>ME_Fallout_4_Lonely_Walls</li>
+			<li>ME_Fallout_4_Lost_Boston</li>
+			<li>ME_Fallout_4_No_More_Sails</li>
+			<li>ME_Fallout_4_No_Voices_No_Cries</li>
+			<li>ME_Fallout_4_Of_Green_and_Grey</li>
+			<li>ME_Fallout_4_Of_the_People_for_the_People</li>
+			<li>ME_Fallout_4_Portal_to_the_Past</li>
+			<li>ME_Fallout_4_Rebuild_Renew</li>
+			<li>ME_Fallout_4_Red_Brick_Broken</li>
+			<li>ME_Fallout_4_Regrouped_Reloaded</li>
+			<li>ME_Fallout_4_Science_and_Secrecy</li>
+			<li>ME_Fallout_4_Standoff</li>
+			<li>ME_Fallout_4_Still_Standing</li>
+			<li>ME_Fallout_4_The_Blasted_Forest_2</li>	
+			<li>ME_Fallout_4_The_City_3</li>
+			<li>ME_Fallout_4_The_Commonwealth</li>
+			<li>ME_Fallout_4_The_Glowing_Sea_1</li>
+			<li>ME_Fallout_4_The_Infiltrator</li>
+			<li>ME_Fallout_4_The_Last_Mariner</li>
+			<li>ME_Fallout_4_The_Stars_My_Solace</li>
+			<li>ME_Fallout_4_The_Vigilant</li>
+			<li>ME_Fallout_4_The_Warlord</li>
+			<li>ME_Fallout_4_Tread_Carefully</li>
+			<li>ME_Fallout_4_Uninvited</li>
+			<li>ME_Fallout_4_War_of_Wills</li>
+			<li>ME_Fallout_4_Wandering_The_Blasted_Forest_1</li>
+			<li>ME_Fallout_4_Wandering_The_City_1</li>
+			<li>ME_Fallout_4_Wandering_The_City_2</li>
+			<li>ME_Fallout_4_Wandering_The_Coast_1</li>
+			<li>ME_Fallout_4_Wandering_The_Coast_2</li>
+			<li>ME_Fallout_4_Wandering_The_Coast_3</li>
+			<li>ME_Fallout_4_Wandering_The_Foothills_1</li>
+			<li>ME_Fallout_4_Wandering_The_Foothills_2</li>
+			<li>ME_Fallout_4_Wandering_The_Foothills_3</li>
+			<li>ME_Fallout_4_Wandering_The_Glowing_Sea_2</li>
+			
+			<li>ME_Fallout_4_Main_Theme</li>
+			<li>ME_Fallout_4_Credits</li>
+			<li>ME_Fallout_4_Mysterious_Stranger</li>
+			
+			<li>ME_Fallout_4_Combat_Ready</li>
+			<li>ME_Fallout_4_Predator_and_Prey</li>
+			<li>ME_Fallout_4_We_Are_Unstoppable</li>			
+			<li>ME_Fallout_4_War_in_the_Wastes</li>
+			<li>ME_Fallout_4_Only_One_Survives</li>
+			<li>ME_Fallout_4_A_Critical_Chance</li>			
+			<li>ME_Fallout_4_Time_to_Die</li>
+			<li>ME_Fallout_4_No_Quarter</li>
+			<li>ME_Fallout_4_Rise_and_Prevail</li>
+			<li>ME_Fallout_4_VATS_or_Die</li>
+			<li>ME_Fallout_4_Dominant_Species</li>
+			<li>ME_Fallout_4_The_Warlord</li>
+			<li>ME_Fallout_4_Enough_Is_Enough</li>
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

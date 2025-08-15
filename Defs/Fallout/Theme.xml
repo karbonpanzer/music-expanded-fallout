@@ -1,0 +1,28 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout</defName>
+        <label>Music Expanded: Fallout</label>
+		<iconPath>UI/Icons/Fallout</iconPath>
+        <description>Contains Tracks from Fallout 1, best used with Fallout 2 but lacks battle tracks and sound effects.</description>
+		<tracks>				
+			<li>ME_Fallout_A_Traders_Life</li>
+			<li>ME_Fallout_Acolytes_of_the_New_God</li>	
+			<li>ME_Fallout_City_of_Lost_Angels</li>
+			<li>ME_Fallout_City_of_the_Dead</li>			
+			<li>ME_Fallout_Desert_Wind</li>
+			<li>ME_Fallout_Flame_of_the_Ancient_World</li>
+			<li>ME_Fallout_Followers_Credo</li>
+			<li>ME_Fallout_Industrial_Junk</li>
+			<li>ME_Fallout_Khans_of_the_New_California</li>
+			<li>ME_Fallout_Metallic_Monks</li>
+			<li>ME_Fallout_Moribund_World</li>
+		    <li>ME_Fallout_Radiation_Storm</li>
+			<li>ME_Fallout_Second_Chance</li>			
+			<li>ME_Fallout_The_Vault_of_the_Future</li>
+			<li>ME_Fallout_Underground_Trouble</li>
+			<li>ME_Fallout_Vats_of_Goo</li>
+
+			<li>ME_Fallout_Desert_Wind_Menu</li>
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

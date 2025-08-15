@@ -1,0 +1,351 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Brightness Calling</label>
+		<defName>ME_Fallout_4_Brightness_Calling</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Brightness Calling</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Concrete Mysteries</label>
+		<defName>ME_Fallout_4_Concrete_Mysteries</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Concrete Mysteries</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Covert Action</label>
+		<defName>ME_Fallout_4_Covert_Action</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Covert Action</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Darkness Falls</label>
+		<defName>ME_Fallout_4_Darkness_Falls</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Darkness Falls</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Deeper and Darker</label>
+		<defName>ME_Fallout_4_Deeper_and_Darker</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Deeper and Darker</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Dust and Danger</label>
+		<defName>ME_Fallout_4_Dust_and_Danger</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Dust and Danger</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Echoes of the Dead</label>
+		<defName>ME_Fallout_4_Echoes_of_the_Dead</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Echoes of the Dead</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Endless Ocean, Endless Dreams</label>
+		<defName>ME_Fallout_4_Endless_Ocean_Endless_Dreams</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Endless Ocean, Endless Dreams</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Explore and Discover</label>
+		<defName>ME_Fallout_4_Explore_and_Discover</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Explore and Discover</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Honor and Steel</label>
+		<defName>ME_Fallout_4_Honor_and_Steel</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Honor and Steel</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Hope Remains</label>
+		<defName>ME_Fallout_4_Hope_Remains</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Hope Remains</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Humanity's Hope</label>
+		<defName>ME_Fallout_4_Humanitys_Hope</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Humanity's Hope</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Imagine Utopia</label>
+		<defName>ME_Fallout_4_Imagine_Utopia</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Imagine Utopia</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- In This Together</label>
+		<defName>ME_Fallout_4_In_This_Together</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- In This Together</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Liberty Lives</label>
+		<defName>ME_Fallout_4_Liberty_Lives</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Liberty Lives</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Lone Wandering</label>
+		<defName>ME_Fallout_4_Lone_Wandering</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Lone Wandering</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Lonely Walls</label>
+		<defName>ME_Fallout_4_Lonely_Walls</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Lonely Walls</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Lost Boston</label>
+		<defName>ME_Fallout_4_Lost_Boston</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Lost Boston</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- No More Sails</label>
+		<defName>ME_Fallout_4_No_More_Sails</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- No More Sails</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- No Voices, No Cries</label>
+		<defName>ME_Fallout_4_No_Voices_No_Cries</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- No Voices, No Cries</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Of Green and Grey</label>
+		<defName>ME_Fallout_4_Of_Green_and_Grey</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Of Green and Grey</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Of the People, for the People</label>
+		<defName>ME_Fallout_4_Of_the_People_for_the_People</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Of the People, for the People</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Portal to the Past</label>
+		<defName>ME_Fallout_4_Portal_to_the_Past</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Portal to the Past</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Rebuild, Renew</label>
+		<defName>ME_Fallout_4_Rebuild_Renew</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Rebuild, Renew</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Red Brick, Broken</label>
+		<defName>ME_Fallout_4_Red_Brick_Broken</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Red Brick, Broken</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Regrouped, Reloaded</label>
+		<defName>ME_Fallout_4_Regrouped_Reloaded</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Regrouped, Reloaded</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Science and Secrecy</label>
+		<defName>ME_Fallout_4_Science_and_Secrecy</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Science and Secrecy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Standoff</label>
+		<defName>ME_Fallout_4_Standoff</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Standoff</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Still Standing</label>
+		<defName>ME_Fallout_4_Still_Standing</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Still Standing</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Blasted Forest, Pt. 2</label>
+		<defName>ME_Fallout_4_The_Blasted_Forest_2</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Blasted Forest, Pt. 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The City, Pt. 3</label>
+		<defName>ME_Fallout_4_The_City_3</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The City, Pt. 3</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Commonwealth</label>
+		<defName>ME_Fallout_4_The_Commonwealth</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Commonwealth</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Glowing Sea, Pt. 1</label>
+		<defName>ME_Fallout_4_The_Glowing_Sea_1</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Glowing Sea, Pt. 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Infiltrator</label>
+		<defName>ME_Fallout_4_The_Infiltrator</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Infiltrator</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Last Mariner</label>
+		<defName>ME_Fallout_4_The_Last_Mariner</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Last Mariner</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Stars My Solace</label>
+		<defName>ME_Fallout_4_The_Stars_My_Solace</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Stars My Solace</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Vigilant</label>
+		<defName>ME_Fallout_4_The_Vigilant</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Vigilant</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Tread Carefully</label>
+		<defName>ME_Fallout_4_Tread_Carefully</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Tread Carefully</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Uninvited</label>
+		<defName>ME_Fallout_4_Uninvited</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Uninvited</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- War of Wills</label>
+		<defName>ME_Fallout_4_War_of_Wills</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- War of Wills</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Blasted Forest Pt. 1</label>
+		<defName>ME_Fallout_4_Wandering_The_Blasted_Forest_1</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Blasted Forest, Pt. 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The City Pt. 1</label>
+		<defName>ME_Fallout_4_Wandering_The_City_1</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The City, Pt. 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The City Pt. 2</label>
+		<defName>ME_Fallout_4_Wandering_The_City_2</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The City, Pt. 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Coast Pt. 1</label>
+		<defName>ME_Fallout_4_Wandering_The_Coast_1</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Coast, Pt. 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Coast Pt. 2</label>
+		<defName>ME_Fallout_4_Wandering_The_Coast_2</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Coast, Pt. 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Coast Pt. 3</label>
+		<defName>ME_Fallout_4_Wandering_The_Coast_3</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Coast, Pt. 3</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Foothills, Pt. 1</label>
+		<defName>ME_Fallout_4_Wandering_The_Foothills_1</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Foothills, Pt. 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Foothills, Pt. 2</label>
+		<defName>ME_Fallout_4_Wandering_The_Foothills_2</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Foothills, Pt. 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Foothills, Pt. 3</label>
+		<defName>ME_Fallout_4_Wandering_The_Foothills_3</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Foothills, Pt. 3</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Wandering The Glowing Sea, Pt. 2</label>
+		<defName>ME_Fallout_4_Wandering_The_Glowing_Sea_2</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Wandering- The Glowing Sea, Pt. 2</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Main Theme</label>
+		<defName>ME_Fallout_4_Main_Theme</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Main Theme</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Credits</label>
+		<defName>ME_Fallout_4_Credits</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Credits</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+        <label>Fallout 4- Mysterious Stranger</label>
+        <defName>ME_Fallout_4_Mysterious_Stranger</defName>
+        <clipPath>MusicExpanded/Fallout 4/Fallout 4- Mysterious Stranger</clipPath>
+        <cue>Custom</cue>
+        <cueData>ManInBlack</cueData>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Combat Ready</label>
+		<defName>ME_Fallout_4_Combat_Ready</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Combat Ready</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Predator and Prey</label>
+		<defName>ME_Fallout_4_Predator_and_Prey</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Predator and Prey</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- We Are Unstoppable</label>
+		<defName>ME_Fallout_4_We_Are_Unstoppable</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- We Are Unstoppable</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- War in the Wastes</label>
+		<defName>ME_Fallout_4_War_in_the_Wastes</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- War in the Wastes</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Only One Survives</label>
+		<defName>ME_Fallout_4_Only_One_Survives</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Only One Survives</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- A Critical Chance</label>
+		<defName>ME_Fallout_4_A_Critical_Chance</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- A Critical Chance</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Time to Die</label>
+		<defName>ME_Fallout_4_Time_to_Die</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Time to Die</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- No Quarter</label>
+		<defName>ME_Fallout_4_No_Quarter</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- No Quarter</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Rise and Prevail</label>
+		<defName>ME_Fallout_4_Rise_and_Prevail</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Rise and Prevail</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- V.A.T.S. or Die</label>
+		<defName>ME_Fallout_4_VATS_or_Die</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- V.A.T.S. or Die</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Dominant Species</label>
+		<defName>ME_Fallout_4_Dominant_Species</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Dominant Species</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- The Warlord</label>
+		<defName>ME_Fallout_4_The_Warlord</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- The Warlord</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 4- Enough Is Enough</label>
+		<defName>ME_Fallout_4_Enough_Is_Enough</defName>
+		<clipPath>MusicExpanded/Fallout 4/Fallout 4- Enough Is Enough</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

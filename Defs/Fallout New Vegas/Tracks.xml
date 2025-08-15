@@ -1,0 +1,337 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- The Doctor Is In</label>
+		<defName>ME_Fallout_New_Vegas_The_Doctor_Is_In</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- The Doctor Is In</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Howdy Pardner</label>
+		<defName>ME_Fallout_New_Vegas_Howdy_Pardner</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Howdy Pardner</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- No Rest For These Bones</label>
+		<defName>ME_Fallout_New_Vegas_No_Rest_For_These_Bones</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- No Rest For These Bones</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Industrial De-Evolution</label>
+		<defName>ME_Fallout_New_Vegas_Industrial_De-Evolution</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Industrial De-Evolution</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Not My Vault</label>
+		<defName>ME_Fallout_New_Vegas_Not_My_Vault</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Not My Vault</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Primm and Proper</label>
+		<defName>ME_Fallout_New_Vegas_Primm_and_Proper</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Primm and Proper</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Knock On My Cazador</label>
+		<defName>ME_Fallout_New_Vegas_Knock_On_My_Cazador</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Knock On My Cazador</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Jacobstown Ladder</label>
+		<defName>ME_Fallout_New_Vegas_Jacobstown_Ladder</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Jacobstown Ladder</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- CCC Doesn't Work For Free</label>
+		<defName>ME_Fallout_New_Vegas_CCC_Doesnt_Work_For_Free</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- CCC Doesn't Work For Free</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Marcus Needs A Favor</label>
+		<defName>ME_Fallout_New_Vegas_Marcus_Needs_A_Favor</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Marcus Needs A Favor</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Mountaintop Movement</label>
+		<defName>ME_Fallout_New_Vegas_Mountaintop_Movement</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Mountaintop Movement</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- The Courier Walks Softly</label>
+		<defName>ME_Fallout_New_Vegas_The_Courier_Walks_Softly</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- The Courier Walks Softly</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Under the Stars</label>
+		<defName>ME_Fallout_New_Vegas_Under_the_Stars</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Under the Stars</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- TCB in Freeside</label>
+		<defName>ME_Fallout_New_Vegas_TCB_in_Freeside</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- TCB in Freeside</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Out of Business</label>
+		<defName>ME_Fallout_New_Vegas_Out_of_Business</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Out of Business</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Rubble of the Forgotten</label>
+		<defName>ME_Fallout_New_Vegas_Rubble_of_the_Forgotten</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Rubble of the Forgotten</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Junkies in the Trunk</label>
+		<defName>ME_Fallout_New_Vegas_Junkies_in_the_Trunk</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Junkies in the Trunk</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- The Two-Headed Bear</label>
+		<defName>ME_Fallout_New_Vegas_The_Two-Headed_Bear</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- The Two-Headed Bear</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Rocket to REPCONN</label>
+		<defName>ME_Fallout_New_Vegas_Rocket_to_REPCONN</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Rocket to REPCONN</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Thorn in My Side</label>
+		<defName>ME_Fallout_New_Vegas_Thorn_in_My_Side</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Thorn in My Side</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Hail Caesar</label>
+		<defName>ME_Fallout_New_Vegas_Hail_Caesar</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Hail Caesar</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Righteous Republic</label>
+		<defName>ME_Fallout_New_Vegas_Righteous_Republic</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Righteous Republic</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Monsters of the Mojave</label>
+		<defName>ME_Fallout_New_Vegas_Monsters_of_the_Mojave</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Monsters of the Mojave</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Blood and the Bull</label>
+		<defName>ME_Fallout_New_Vegas_Blood_and_the_Bull</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Blood and the Bull</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+        <label>Fallout New Vegas- Main Title</label>
+        <defName>ME_Fallout_New_Vegas_Main_Title</defName>
+        <clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Main Title</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+        <label>Fallout New Vegas- Credits</label>
+        <defName>ME_Fallout_New_Vegas_Credits</defName>
+        <clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Credits</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+        <label>Fallout- Mysterious Stranger</label>
+        <defName>ME_Fallout_New_Vegas_Mysterious_Stranger</defName>
+        <clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Mysterious Stranger</clipPath>
+        <cue>Custom</cue>
+        <cueData>ManInBlack</cueData>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Wasteland Justice</label>
+		<defName>ME_Fallout_New_Vegas_Wasteland_Justice</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Wasteland Justice</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Mutant Massacre</label>
+		<defName>ME_Fallout_New_Vegas_Mutant_Massacre</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Mutant Massacre</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Beneath the Streets</label>
+		<defName>ME_Fallout_New_Vegas_Beneath_the_Streets</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Beneath the Streets</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Garden of Evil</label>
+		<defName>ME_Fallout_New_Vegas_Garden_of_Evil</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Garden of Evil</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Subterranean Meltdown</label>
+		<defName>ME_Fallout_New_Vegas_Subterranean_Meltdown</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Subterranean Meltdown</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- The Gangs of New Vegas</label>
+		<defName>ME_Fallout_New_Vegas_The_Gangs_of_New_Vegas</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- The Gangs of New Vegas</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Boys and Ghouls</label>
+		<defName>ME_Fallout_New_Vegas_Boys_and_Ghouls</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Boys and Ghouls</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle for the City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_for_the_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle for the City</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- The Viper's Sting</label>
+		<defName>ME_Fallout_New_Vegas_The_Vipers_Sting</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- The Viper's Sting</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Dam Nation</label>
+		<defName>ME_Fallout_New_Vegas_Dam_Nation</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Dam Nation</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 1 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_1_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 1 City</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 1 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_1_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 1 Rural</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 2 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_2_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 2 City</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 2 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_2_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 2 Rural</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 3 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_3_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 3 City</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 3 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_3_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 3 Rural</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 4 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_4_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 4 City</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Evil 4 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Evil_4_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Evil 4 Rural</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 1 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_1_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 1 City</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 1 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_1_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 1 Rural</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 2 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_2_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 2 City</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 2 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_2_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 2 Rural</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 3 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_3_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 3 City</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 3 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_3_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 3 Rural</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 4 City</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_4_City</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 4 City</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle Loop Good 4 Rural</label>
+		<defName>ME_Fallout_New_Vegas_Battle_Loop_Good_4_Rural</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle Loop Good 4 Rural</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam Caesar Low</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_Low</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam Caesar Low</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam Caesar Mid</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_Mid</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam Caesar Mid</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam Caesar High</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_High</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam Caesar High</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam NCR Low</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_Low</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam NCR Low</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam NCR Mid</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_Mid</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam NCR Mid</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout New Vegas- Battle of Hoover Dam NCR High</label>
+		<defName>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_High</defName>
+		<clipPath>MusicExpanded/Fallout New Vegas/Fallout New Vegas- Battle of Hoover Dam NCR High</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+
+</Defs>

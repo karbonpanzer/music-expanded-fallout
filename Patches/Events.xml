@@ -1,0 +1,11 @@
+<Patch>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>/Defs/IncidentDef[defName="StrangerInBlackJoin"]</xpath>
+        <value>
+            <li Class="MusicExpanded.ModExtension.PlayCue">
+                <cue>Custom</cue>
+                <cueData>ManInBlack</cueData>
+            </li>
+        </value>
+    </Operation>
+</Patch>
