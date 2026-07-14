@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - Many Contrasts</label>
+		<defName>ME_Fallout_2_Many_Contrasts</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- Many Contrasts</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - Gold Slouch</label>
+		<defName>ME_Fallout_2_Gold_Slouch</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- Gold Slouch</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - My Chrysalis Highwayman</label>
+		<defName>ME_Fallout_2_My_Chrysalis_Highwayman</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- My Chrysalis Highwayman</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - Beyond the Canyon</label>
+		<defName>ME_Fallout_2_Beyond_the_Canyon</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- Beyond the Canyon</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - Biggest Little City in the World</label>
+		<defName>ME_Fallout_2_Biggest_Little_City_in_the_World</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- Biggest Little City in the World</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - Dream Town</label>
+		<defName>ME_Fallout_2_Dream_Town</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- Dream Town</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - California Revisited</label>
+		<defName>ME_Fallout_2_California_Revisited</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- California Revisited</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 2 - All Clear Signal</label>
+		<defName>ME_Fallout_2_All_Clear_Signal</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- All Clear Signal</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 2 - My Chrysalis Highwayman</label>
+		<defName>ME_Fallout_2_My_Chrysalis_Highwayman_-_Menu</defName>
+		<clipPath>MusicExpanded/Fallout 2/Fallout 2- My Chrysalis Highwayman - Menu</clipPath>
+		<cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
+	</MusicExpanded.TrackDef>
+</Defs>

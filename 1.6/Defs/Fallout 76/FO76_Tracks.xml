@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - A Light Up Ahead</label>
+		<defName>ME_Fallout_76_A_Light_Up_Ahead</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- A Light Up Ahead</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Ash Heap Lullaby</label>
+		<defName>ME_Fallout_76_Ash_Heap_Lullaby</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Ash Heap Lullaby</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Blackwater</label>
+		<defName>ME_Fallout_76_Blackwater</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Blackwater</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Burn Away the Myst</label>
+		<defName>ME_Fallout_76_Burn_Away_the_Myst</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Burn Away the Myst</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Catacombers</label>
+		<defName>ME_Fallout_76_Catacombers</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Catacombers</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Crags and Cliffs</label>
+		<defName>ME_Fallout_76_Crags_and_Cliffs</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Crags and Cliffs</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Find Me There</label>
+		<defName>ME_Fallout_76_Find_Me_There</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Find Me There</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Gather Around the CaMP Fire</label>
+		<defName>ME_Fallout_76_Gather_Around_the_CaMP_Fire</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Gather Around the CaMP Fire</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Invisible Ghosts</label>
+		<defName>ME_Fallout_76_Invisible_Ghosts</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Invisible Ghosts</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Landscape Lament</label>
+		<defName>ME_Fallout_76_Landscape_Lament</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Landscape Lament</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Lit Only by Stars</label>
+		<defName>ME_Fallout_76_Lit_Only_by_Stars</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Lit Only by Stars</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Moonrise</label>
+		<defName>ME_Fallout_76_Moonrise</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Moonrise</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Our Way of Life will Endure</label>
+		<defName>ME_Fallout_76_Our_Way_of_Life_will_Endure</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Our Way of Life will Endure</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Out There in Appalachia</label>
+		<defName>ME_Fallout_76_Out_There_in_Appalachia</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Out There in Appalachia</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Reclaimation Day</label>
+		<defName>ME_Fallout_76_Reclaimation_Day</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Reclaimation Day</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Scourched Earth</label>
+		<defName>ME_Fallout_76_Scourched_Earth</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Scourched Earth</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Excavator</label>
+		<defName>ME_Fallout_76_The_Excavator</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Excavator</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Grafton Damned</label>
+		<defName>ME_Fallout_76_The_Grafton_Damned</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Grafton Damned</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Mole Miners</label>
+		<defName>ME_Fallout_76_The_Mole_Miners</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Mole Miners</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Power Plant</label>
+		<defName>ME_Fallout_76_The_Power_Plant</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Power Plant</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Savage Divide</label>
+		<defName>ME_Fallout_76_The_Savage_Divide</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Savage Divide</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - The Wind and The Reeds</label>
+		<defName>ME_Fallout_76_The_Wind_and_The_Reeds</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- The Wind and The Reeds</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Three Minutes</label>
+		<defName>ME_Fallout_76_Three_Minutes</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Three Minutes</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - We Are One</label>
+		<defName>ME_Fallout_76_We_Are_One</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- We Are One</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - You Must Rebuild</label>
+		<defName>ME_Fallout_76_You_Must_Rebuild</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- You Must Rebuild</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 1</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_1</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 1</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 2</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_2</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 2</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 3</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_3</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 3</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 4</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_4</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 4</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 5</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_5</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 5</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Wandering Appalachia, Pt. 6</label>
+		<defName>ME_Fallout_76_Wandering_Appalachia_6</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Wandering Appalachia, Pt. 6</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Main Theme</label>
+		<defName>ME_Fallout_76_Main_Theme</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Main Theme</clipPath>
+        <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Country Road</label>
+		<defName>ME_Fallout_76_Country_Road</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Country Road</clipPath>
+        <cue>Credits</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Contact</label>
+		<defName>ME_Fallout_76_Contact</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Contact</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Pest Control</label>
+		<defName>ME_Fallout_76_Pest_Control</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Pest Control</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - You Can't Hide Forever</label>
+		<defName>ME_Fallout_76_You_Cant_Hide_Forever</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- You Can't Hide Forever</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Facing Myths</label>
+		<defName>ME_Fallout_76_Facing_Myths</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Facing Myths</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - This is Your Death</label>
+		<defName>ME_Fallout_76_This_is_Your_Death</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- This Is Your Death</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - We Hold the Line Here</label>
+		<defName>ME_Fallout_76_We_Hold_the_Line_Here</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- We Hold the Line Here</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 76 - Hesitation is Discouraged</label>
+		<defName>ME_Fallout_76_Hesitation_is_Discouraged</defName>
+		<clipPath>MusicExpanded/Fallout 76/Fallout 76- Hesitation is Discouraged</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+</Defs>

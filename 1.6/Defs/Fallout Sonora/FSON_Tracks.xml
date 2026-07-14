@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Casa Grande</label>
+		<defName>ME_Fallout_Sonora_Casa_Grande</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Casa Grande</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - City of Flagstaff</label>
+		<defName>ME_Fallout_Sonora_City_of_Flagstaff</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- City of Flagstaff</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - City of Phoenix</label>
+		<defName>ME_Fallout_Sonora_City_of_Phoenix</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- City of Phoenix</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Collapse</label>
+		<defName>ME_Fallout_Sonora_Collapse</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Collapse</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Desert Rangers</label>
+		<defName>ME_Fallout_Sonora_Desert_Rangers</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Desert Rangers</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Fogbound</label>
+		<defName>ME_Fallout_Sonora_Fogbound</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Fogbound</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Garage City</label>
+		<defName>ME_Fallout_Sonora_Garage_City</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Garage City</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Ghosts</label>
+		<defName>ME_Fallout_Sonora_Ghosts</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Ghosts</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Jackals</label>
+		<defName>ME_Fallout_Sonora_Jackals</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Jackals</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - La Ciudad del Sol</label>
+		<defName>ME_Fallout_Sonora_La_Ciudad_del_Sol</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- La Ciudad del Sol</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Motel</label>
+		<defName>ME_Fallout_Sonora_Motel</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Motel</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - One Way</label>
+		<defName>ME_Fallout_Sonora_One_Way</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- One Way</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Out of the World (Alternate)</label>
+		<defName>ME_Fallout_Sonora_Out_of_The_World_Alternate</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Out of The World (Alternate)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Out of the World</label>
+		<defName>ME_Fallout_Sonora_Out_of_The_World</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Out of The World</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Out of Service</label>
+		<defName>ME_Fallout_Sonora_Out_of_Service</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Out-of-Service</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Villa</label>
+		<defName>ME_Fallout_Sonora_Villa</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Villa</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout Sonora - Theme</label>
+		<defName>ME_Fallout_Sonora_Theme</defName>
+		<clipPath>MusicExpanded/Fallout Sonora/Fallout Sonora- Theme</clipPath>
+        <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+</Defs>

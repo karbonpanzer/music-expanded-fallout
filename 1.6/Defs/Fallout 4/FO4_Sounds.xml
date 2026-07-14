@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <SoundDef>
+        <defName>ME_Fallout_4_Quest_Completed</defName>
+        <modExtensions><li Class="MusicExpanded.ModExtension.ReplacesSounds"><sounds><li>Quest_Succeded</li></sounds></li></modExtensions>
+        <subSounds>
+            <li>
+                <onCamera>True</onCamera>      
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>MusicExpanded/Fallout 4/Fallout 4- Quest Completed</clipPath>
+                    </li>
+                </grains>      
+                <volumeRange>100~100</volumeRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+	<SoundDef>
+        <defName>ME_Fallout_4_Quest_New</defName>
+        <modExtensions><li Class="MusicExpanded.ModExtension.ReplacesSounds"><sounds><li>Quest_Accepted</li></sounds></li></modExtensions>
+        <subSounds>
+            <li>
+                <onCamera>True</onCamera>      
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>MusicExpanded/Fallout 4/Fallout 4- Quest New</clipPath>
+                    </li>
+                </grains>      
+                <volumeRange>50~50</volumeRange>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>

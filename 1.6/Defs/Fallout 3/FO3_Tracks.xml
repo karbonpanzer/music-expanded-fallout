@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - A Stranger in Town</label>
+		<defName>ME_Fallout_3_A_Stranger_in_Town</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- A Stranger in Town</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Ashes and Sand</label>
+		<defName>ME_Fallout_3_Ashes_and_Sand</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Ashes and Sand</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - City of Ruin</label>
+		<defName>ME_Fallout_3_City_of_Ruin</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- City of Ruin</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Clues in the Darkness</label>
+		<defName>ME_Fallout_3_Clues_in_the_Darkness</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Clues in the Darkness</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Forgotten</label>
+		<defName>ME_Fallout_3_Forgotten</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Forgotten</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Fortress</label>
+		<defName>ME_Fallout_3_Fortress</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Fortress</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Gotta Start Somewhere</label>
+		<defName>ME_Fallout_3_Gotta_Start_Somewhere</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Gotta Start Somewhere</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Lockstep</label>
+		<defName>ME_Fallout_3_Lockstep</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Lockstep</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Megaton</label>
+		<defName>ME_Fallout_3_Megaton</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Megaton</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - New World, New Order</label>
+		<defName>ME_Fallout_3_New_World_New_Order</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- New World, New Order</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - No Way Out but Through</label>
+		<defName>ME_Fallout_3_No_Way_Out_but_Through</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- No Way Out but Through</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Old Lands, New Frontiers</label>
+		<defName>ME_Fallout_3_Old_Lands_New_Frontiers</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Old Lands, New Frontiers</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Out of Service</label>
+		<defName>ME_Fallout_3_Out_of_Service</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Out of Service</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Pieces of the Past</label>
+		<defName>ME_Fallout_3_Pieces_of_the_Past</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Pieces of the Past</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Place of Refuge</label>
+		<defName>ME_Fallout_3_Place_of_Refuge</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Place of Refuge</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Price of Honor</label>
+		<defName>ME_Fallout_3_Price_of_Honor</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Price of Honor</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - The Caravans</label>
+		<defName>ME_Fallout_3_The_Caravans</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- The Caravans</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - The Ferals</label>
+		<defName>ME_Fallout_3_The_Ferals</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- The Ferals</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - The Smallest Hope</label>
+		<defName>ME_Fallout_3_The_Smallest_Hope</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- The Smallest Hope</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Wandering the Wastes</label>
+		<defName>ME_Fallout_3_Wandering_the_Wastes</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Wandering the Wastes</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout 3 - What Remains</label>
+		<defName>ME_Fallout_3_What_Remains</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- What Remains</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Main Title</label>
+		<defName>ME_Fallout_3_Main_Title</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Main Title</clipPath>
+        <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Credits</label>
+		<defName>ME_Fallout_3_Credits</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Credits</clipPath>
+        <cue>Credits</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+        <label>Fallout 3 - Mysterious Stranger</label>
+        <defName>ME_Fallout_3_Mysterious_Stranger</defName>
+        <clipPath>MusicExpanded/Fallout 3/Fallout 3- Mysterious Stranger</clipPath>
+        <cue>Custom</cue>
+        <cueData>ManInBlack</cueData>
+    </MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Never Surrender</label>
+		<defName>ME_Fallout_3_Never_Surrender</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Never Surrender</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Chance to Hit</label>
+		<defName>ME_Fallout_3_Chance_to_Hit</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Chance to Hit</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Think Fast, Shoot Faster</label>
+		<defName>ME_Fallout_3_Think_Fast_Shoot_Faster</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Think Fast, Shoot Faster</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Ambush</label>
+		<defName>ME_Fallout_3_Ambush</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Ambush</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Unwelcome Guest</label>
+		<defName>ME_Fallout_3_Unwelcome_Guest</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Unwelcome Guest</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Metal on Metal</label>
+		<defName>ME_Fallout_3_Metal_on_Metal</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Metal on Metal</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout 3 - Behemoth</label>
+		<defName>ME_Fallout_3_Behemoth</defName>
+		<clipPath>MusicExpanded/Fallout 3/Fallout 3- Behemoth</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+</Defs>

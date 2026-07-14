@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout_BOS</defName>
+        <label>Music Expanded: Fallout Brotherhood of Steel</label>
+		<iconPath>UI/Icons/Fallout BOS</iconPath>
+        <description>Contains Tracks from the black sheep of the franchise and having what I can describe as the death of the classic Fallout style, Fallout Brotherhood of Steel. God save my soul because this is so out of place compared to the other soundtracks but its ambient tracks are fantastic though the nu-metal fucks all of that up. Also drink Bawl's energy drink because Interplay needed the money for this piece of shit.</description>
+		<tracks>			
+			<li>ME_Fallout_BOS_Ambience_1</li>
+			<li>ME_Fallout_BOS_Ambience_2</li>
+			<li>ME_Fallout_BOS_Ambience_3</li>
+			<li>ME_Fallout_BOS_Ambience_4</li>
+			<li>ME_Fallout_BOS_Ambience_5</li>
+			<li>ME_Fallout_BOS_Ambience_6</li>
+			<li>ME_Fallout_BOS_Ambience_7</li>
+			<li>ME_Fallout_BOS_Ambience_8</li>
+			<li>ME_Fallout_BOS_Ambience_9</li>
+			<li>ME_Fallout_BOS_Ambience_10</li>
+			<li>ME_Fallout_BOS_Ambience_11</li>
+			<li>ME_Fallout_BOS_Ambience_12</li>
+			<li>ME_Fallout_BOS_Ambience_13</li>
+			<li>ME_Fallout_BOS_BGM_1</li>
+			<li>ME_Fallout_BOS_BGM_2</li>
+			<li>ME_Fallout_BOS_BGM_3</li>
+			<li>ME_Fallout_BOS_BGM_4</li>
+			<li>ME_Fallout_BOS_BGM_5</li>
+			<li>ME_Fallout_BOS_BGM_6</li>
+			<li>ME_Fallout_BOS_BGM_7</li>
+			<li>ME_Fallout_BOS_BGM_8</li>
+			<li>ME_Fallout_BOS_BGM_9</li>
+			<li>ME_Fallout_BOS_BGM_10</li>
+			<li>ME_Fallout_BOS_BGM_11</li>
+			<li>ME_Fallout_BOS_BGM_12</li>
+			<li>ME_Fallout_BOS_BGM_13</li>
+			<li>ME_Fallout_BOS_Menu</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

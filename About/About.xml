@@ -51,6 +51,7 @@ Credits for Sources on Modpage.]]>
 	</supportedVersions>
     <loadAfter>
         <li>musicexpanded.framework</li>
+		<li>zal.mef</li>
         <li>VanillaExpanded.VEE</li>
     </loadAfter>
     	<modDependenciesByVersion>

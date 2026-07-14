@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout_New_Vegas</defName>
+        <label>Music Expanded: Fallout New Vegas</label>
+		<iconPath>UI/Icons/Fallout New Vegas</iconPath>
+        <description>Contains tracks from Fallout New Vegas, excluding the licensed radio music. Includes sound effects. Thirty-three combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu, credits and Mysterious Stranger cues.</description>
+		<sounds>
+            <li>ME_Fallout_New_Vegas_Quest_Completed</li>
+			<li>ME_Fallout_New_Vegas_Quest_New</li>
+        </sounds>
+		<tracks>			
+			<li>ME_Fallout_New_Vegas_The_Doctor_Is_In</li>
+			<li>ME_Fallout_New_Vegas_Howdy_Pardner</li>
+			<li>ME_Fallout_New_Vegas_No_Rest_For_These_Bones</li>
+			<li>ME_Fallout_New_Vegas_Industrial_De-Evolution</li>
+			<li>ME_Fallout_New_Vegas_Not_My_Vault</li>
+			<li>ME_Fallout_New_Vegas_Primm_and_Proper</li>
+			<li>ME_Fallout_New_Vegas_Knock_On_My_Cazador</li>
+			<li>ME_Fallout_New_Vegas_Jacobstown_Ladder</li>
+			<li>ME_Fallout_New_Vegas_CCC_Doesnt_Work_For_Free</li>
+			<li>ME_Fallout_New_Vegas_Marcus_Needs_A_Favor</li>
+			<li>ME_Fallout_New_Vegas_Mountaintop_Movement</li>
+			<li>ME_Fallout_New_Vegas_The_Courier_Walks_Softly</li>
+			<li>ME_Fallout_New_Vegas_Under_the_Stars</li>
+			<li>ME_Fallout_New_Vegas_TCB_in_Freeside</li>
+			<li>ME_Fallout_New_Vegas_Out_of_Business</li>
+			<li>ME_Fallout_New_Vegas_Rubble_of_the_Forgotten</li>
+			<li>ME_Fallout_New_Vegas_Junkies_in_the_Trunk</li>
+			<li>ME_Fallout_New_Vegas_Boys_and_Ghouls</li>
+			<li>ME_Fallout_New_Vegas_The_Two-Headed_Bear</li>
+			<li>ME_Fallout_New_Vegas_Rocket_to_REPCONN</li>
+			<li>ME_Fallout_New_Vegas_Thorn_in_My_Side</li>
+			<li>ME_Fallout_New_Vegas_Hail_Caesar</li>
+			<li>ME_Fallout_New_Vegas_Righteous_Republic</li>
+			<li>ME_Fallout_New_Vegas_Monsters_of_the_Mojave</li>
+			<li>ME_Fallout_New_Vegas_Blood_and_the_Bull</li>
+			
+			<li>ME_Fallout_New_Vegas_Main_Title</li>
+			<li>ME_Fallout_New_Vegas_Credits</li>
+			<li>ME_Fallout_New_Vegas_Mysterious_Stranger</li>
+			
+			<li>ME_Fallout_New_Vegas_Wasteland_Justice</li>
+			<li>ME_Fallout_New_Vegas_Mutant_Massacre</li>			
+			<li>ME_Fallout_New_Vegas_Beneath_the_Streets</li>			
+			<li>ME_Fallout_New_Vegas_Garden_of_Evil</li>			
+			<li>ME_Fallout_New_Vegas_Subterranean_Meltdown</li>			
+			<li>ME_Fallout_New_Vegas_The_Gangs_of_New_Vegas</li>
+			<li>ME_Fallout_New_Vegas_Battle_for_the_City</li>			
+			<li>ME_Fallout_New_Vegas_The_Vipers_Sting</li>
+			<li>ME_Fallout_New_Vegas_Dam_Nation</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_1_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_1_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_2_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_2_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_3_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_3_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_4_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Evil_4_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_1_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_1_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_2_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_2_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_3_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_3_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_4_City</li>
+			<li>ME_Fallout_New_Vegas_Battle_Loop_Good_4_Rural</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_Low</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_Mid</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_Caesar_High</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_Low</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_Mid</li>
+			<li>ME_Fallout_New_Vegas_Battle_of_Hoover_Dam_NCR_High</li>
+
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

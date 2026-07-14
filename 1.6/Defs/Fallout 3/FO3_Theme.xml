@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout_3</defName>
+        <label>Music Expanded: Fallout 3</label>
+		<iconPath>UI/Icons/Fallout 3</iconPath>
+        <description>Contains all tracks from Fallout 3, including sound effects. Seven combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu, credits and Mysterious Stranger cues.</description>
+		<sounds>
+            <li>ME_Fallout_3_Quest_Completed</li>
+			<li>ME_Fallout_3_Quest_New</li>
+        </sounds>
+		<tracks>			
+			<li>ME_Fallout_3_A_Stranger_in_Town</li>
+			<li>ME_Fallout_3_Ashes_and_Sand</li>
+			<li>ME_Fallout_3_City_of_Ruin</li>
+			<li>ME_Fallout_3_Clues_in_the_Darkness</li>
+			<li>ME_Fallout_3_Forgotten</li>
+			<li>ME_Fallout_3_Fortress</li>
+			<li>ME_Fallout_3_Gotta_Start_Somewhere</li>
+			<li>ME_Fallout_3_Lockstep</li>
+			<li>ME_Fallout_3_Megaton</li>
+			<li>ME_Fallout_3_New_World_New_Order</li>
+			<li>ME_Fallout_3_No_Way_Out_but_Through</li>
+			<li>ME_Fallout_3_Old_Lands_New_Frontiers</li>
+			<li>ME_Fallout_3_Out_of_Service</li>
+			<li>ME_Fallout_3_Pieces_of_the_Past</li>
+			<li>ME_Fallout_3_Place_of_Refuge</li>
+			<li>ME_Fallout_3_Price_of_Honor</li>
+			<li>ME_Fallout_3_The_Caravans</li>
+			<li>ME_Fallout_3_The_Ferals</li>
+			<li>ME_Fallout_3_The_Smallest_Hope</li>
+			<li>ME_Fallout_3_Wandering_the_Wastes</li>
+			<li>ME_Fallout_3_What_Remains</li>
+			
+			<li>ME_Fallout_3_Main_Title</li>
+			<li>ME_Fallout_3_Credits</li>
+			<li>ME_Fallout_3_Mysterious_Stranger</li>			
+			
+			<li>ME_Fallout_3_Never_Surrender</li>
+			<li>ME_Fallout_3_Chance_to_Hit</li>	
+			<li>ME_Fallout_3_Think_Fast_Shoot_Faster</li>			
+			<li>ME_Fallout_3_Ambush</li>
+			<li>ME_Fallout_3_Unwelcome_Guest</li>
+			<li>ME_Fallout_3_Metal_on_Metal</li>
+			<li>ME_Fallout_3_Behemoth</li>
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

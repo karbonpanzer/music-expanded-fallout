@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Map</label>
+		<defName>ME_Fallout_Tactics_Map</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Map</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Brotherhood of Steel</label>
+		<defName>ME_Fallout_Tactics_Brotherhood_of_Steel</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Brotherhood of Steel</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Calculator's Lair</label>
+		<defName>ME_Fallout_Tactics_Calculators_Lair</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Calculator's Lair</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Cheyenne Mountain</label>
+		<defName>ME_Fallout_Tactics_Cheyenne_Mountain</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Cheyenne Mountain</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Critters</label>
+		<defName>ME_Fallout_Tactics_Critters</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Critters</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Desert</label>
+		<defName>ME_Fallout_Tactics_Desert</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Desert</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Facility</label>
+		<defName>ME_Fallout_Tactics_Facility</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Facility</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Ghouls</label>
+		<defName>ME_Fallout_Tactics_Ghouls</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Ghouls</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Raiders</label>
+		<defName>ME_Fallout_Tactics_Raiders</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Raiders</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Reavers</label>
+		<defName>ME_Fallout_Tactics_Reavers</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Reavers</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Robots</label>
+		<defName>ME_Fallout_Tactics_Robots</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Robots</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Super Mutants</label>
+		<defName>ME_Fallout_Tactics_Super_Mutants</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Super Mutants</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Tribals</label>
+		<defName>ME_Fallout_Tactics_Tribals</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Tribals</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Urban</label>
+		<defName>ME_Fallout_Tactics_Urban</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Urban</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Final Battle</label>
+		<defName>ME_Fallout_Tactics_Final_Battle</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Final Battle</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+        <label>Fallout Tactics - Main Menu</label>
+        <defName>ME_Fallout_Tactics_Main_Menu</defName>
+        <clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Main Menu</clipPath>
+        <cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+        <label>Fallout Tactics - Sacrifice of the General</label>
+        <defName>ME_Fallout_Tactics_Sacrifice_of_the_General</defName>
+        <clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Sacrifice of the General</clipPath>
+        <cue>Credits</cue>
+        <playOnMap>false</playOnMap>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Fallout Tactics - Battle</label>
+		<defName>ME_Fallout_Tactics_Battle</defName>
+		<clipPath>MusicExpanded/Fallout Tactics/Fallout Tactics- Battle</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+    </MusicExpanded.TrackDef>
+</Defs>

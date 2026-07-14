@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Fallout_Sonora</defName>
+        <label>Music Expanded: Fallout Sonora</label>
+		<iconPath>UI/Icons/Fallout Sonora</iconPath>
+        <description>Contains tracks from the classic Fallout mod, Fallout Sonora. Music by Nobody's Nail Machine, offered free on Bandcamp - please consider donating. The score has no dedicated battle music, so three cues carry the danger rotation.</description>
+		<tracks>			
+			<li>ME_Fallout_Sonora_Casa_Grande</li>
+			<li>ME_Fallout_Sonora_City_of_Flagstaff</li>
+			<li>ME_Fallout_Sonora_City_of_Phoenix</li>
+			<li>ME_Fallout_Sonora_Collapse</li>
+			<li>ME_Fallout_Sonora_Desert_Rangers</li>
+			<li>ME_Fallout_Sonora_Fogbound</li>
+			<li>ME_Fallout_Sonora_Garage_City</li>
+			<li>ME_Fallout_Sonora_Ghosts</li>
+			<li>ME_Fallout_Sonora_Jackals</li>
+			<li>ME_Fallout_Sonora_La_Ciudad_del_Sol</li>
+			<li>ME_Fallout_Sonora_Motel</li>
+			<li>ME_Fallout_Sonora_One_Way</li>
+			<li>ME_Fallout_Sonora_Out_of_The_World_Alternate</li>
+			<li>ME_Fallout_Sonora_Out_of_The_World</li>
+			<li>ME_Fallout_Sonora_Out_of_Service</li>
+			<li>ME_Fallout_Sonora_Theme</li>
+			<li>ME_Fallout_Sonora_Villa</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
